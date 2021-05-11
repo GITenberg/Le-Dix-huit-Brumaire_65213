@@ -1,5 +1,8 @@
 _repo: Le-Dix-huit-Brumaire_65213
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65213-h/images/cover.jpg
 creator:
   author:
     agent_name: Bainville, Jacques
@@ -11,6 +14,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jacques_Bainville
     - https://fr.wikipedia.org/wiki/Jacques_Bainville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65213#Le-Dix-huit-Brumaire
 gutenberg_issued: '2021-05-01'
 gutenberg_type: Text
 identifiers:
